@@ -1,0 +1,18 @@
+div{
+  display: flex;
+  gap: 10px;
+  padding: 10px 10px;
+}
+.btn{
+  width: 100px;
+  height: 35px;
+  border-radius: 5px;
+  background-color: rgb(46, 72, 46);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+input{
+  width: 300px;
+  height: 30px;
+}
